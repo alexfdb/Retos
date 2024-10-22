@@ -18,7 +18,4 @@ public class Reto20 {
             System.out.print(numerosMultiplicados4[i] + " ");
         }
     }
-
-
-    
 }
